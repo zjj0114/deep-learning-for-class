@@ -1,0 +1,20 @@
+I love natural language processing
+I enjoy machine learning and deep learning
+Word embeddings are important for NLP tasks
+Gensim is a popular library for word2vec
+Python is widely used in data science
+Machine learning models can learn from data
+Natural language processing helps computers understand text
+Deep learning has revolutionized AI
+Word2vec creates dense vector representations
+Text data is essential for NLP models
+I study artificial intelligence and machine learning
+Data science involves statistics and programming
+Neural networks are used in many AI applications
+Natural language understanding is a key AI challenge
+Word embeddings capture semantic relationships
+Machine learning algorithms learn patterns from data
+Deep learning models have many layers
+NLP tasks include sentiment analysis and text classification
+Word2vec was introduced by Google researchers
+Python libraries like gensim make NLP easier
