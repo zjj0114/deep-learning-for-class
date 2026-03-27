@@ -13,32 +13,27 @@
 ```
 word2vec_project/
 ├── data/             # 存放训练数据
-│   └── sample_text.txt  # 示例训练文本
+│   └── requirements.txt  # 示例训练文本
 ├── models/           # 存放训练好的模型
 │   └── word2vec.model  # 训练好的Word2Vec模型
 ├── main.py           # 主代码文件
-├── requirements.txt  # 项目依赖库
 └── README.md         # 项目说明
 ```
 
 ## 环境要求
 
 - Python 3.11+
-- 依赖库：见requirements.txt
-  ```Python
-  pip install -r requirements.txt
-  ```
+
 
 ## 使用方法
 
 1. 克隆项目到本地
-2. 安装依赖：`pip install -r requirements.txt`
-3. 运行主代码：`python main.py`
-4. 查看生成的词向量分布图像，在output文件夹里
+2. 运行主代码：`python main.py`
+3. 查看生成的词向量分布图像，在output文件夹里
 
 ## 数据集说明
 
-本项目使用了一个简单的示例文本文件`sample_text.txt`，包含了一些常见的英文句子，用于训练Word2Vec模型。
+本项目使用了一个简单的示例文本文件`requirements.txt`，包含了一些常见的英文句子，用于训练Word2Vec模型。
 
 ## 模型训练
 
