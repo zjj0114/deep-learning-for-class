@@ -1,0 +1,42 @@
+{
+  "config": {
+    "model_type": "gru",
+    "data_root": "..\\.tmp\\20news_data",
+    "seed": 42,
+    "max_len": 400,
+    "min_freq": 2,
+    "max_vocab_size": 30000,
+    "batch_size": 64,
+    "embedding_dim": 128,
+    "hidden_dim": 128,
+    "num_layers": 2,
+    "dropout": 0.35,
+    "lr": 0.0007,
+    "weight_decay": 0.0001,
+    "epochs": 18,
+    "patience": 4
+  },
+  "dataset": {
+    "train_size": 971,
+    "val_size": 108,
+    "test_size": 717,
+    "vocab_size": 11767,
+    "labels": [
+      "alt.atheism",
+      "soc.religion.christian"
+    ]
+  },
+  "best_val_acc": 0.8055555555555556,
+  "test_loss": 0.8140464144936832,
+  "test_accuracy": 0.7099023709902371,
+  "confusion_matrix": [
+    [
+      200,
+      119
+    ],
+    [
+      89,
+      309
+    ]
+  ]
+}
